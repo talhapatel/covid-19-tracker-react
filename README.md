@@ -1,5 +1,5 @@
 ### - Here is the live link (https://talha-s-covid-19-tracker.web.app/)
-![Covid-19 Tracker Demo](preview/screenview.gif)
+![Covid-19 Tracker Demo](https://github.com/talhapatel/covid-19-tracker-react/blob/master/src/preview/screenview.gif)
 #### - Following API is used for  covid-19 data
 | API name   |      API link      | 
 |----------|:-------------:|
