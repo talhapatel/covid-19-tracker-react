@@ -1,3 +1,5 @@
+## here is the live link (https://talha-s-covid-19-tracker.web.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
