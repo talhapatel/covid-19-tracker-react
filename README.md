@@ -9,7 +9,7 @@
 | GET Last 120 Days History data  | https://disease.sh/v3/covid-19/historical/all?lastdays=120 | 
 
 - For Customise and Fill data on Map i use LeafletMap you can see more details on following link :- (https://react-leaflet.js.org/ )
-- You can download also downlaod with npm command``` npm install react-leaflet # npm```
+- You can also downlaod with npm command``` npm install react-leaflet # npm```
 - For chart i use chartJs for react You can install via NPM ``` npm install --save react-chartjs-2 chart.js```
 
 ### Setup
